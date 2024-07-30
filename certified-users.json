@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Aluno Exemplo",
+    "mail": "aluno@gmail.com",
+    "certificates": [
+      "Aluno Exemplo_MIA-001.pdf",
+      "Aluno Exemplo_MIA-002.pdf",
+      "Aluno Exemplo_MIA-003.pdf",
+      "Aluno Exemplo_MIA-004.pdf"
+    ]
+  }
+]
